@@ -1,0 +1,8 @@
+﻿node_modules/
+*.pem
+*.key
+*.env
+*.log
+dist/
+.idea/
+.vscode/
