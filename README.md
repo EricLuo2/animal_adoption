@@ -34,7 +34,6 @@
 - **MySQL 8.0** - 数据库
 - **JWT** - 身份认证
 - **JavaMail** - 邮件服务
-- **Swagger** - API文档
 - **Hutool** - 工具库
 
 ### 前端技术栈
@@ -206,13 +205,6 @@ files:
 - 文件上传安全验证
 - 敏感信息加密
 
-## API文档
-
-系统集成了Swagger文档，启动后端服务后访问：
-```
-http://localhost:9090/swagger-ui.html
-```
-
 ## 开发指南
 
 ### 代码规范
@@ -232,37 +224,13 @@ test: 测试相关
 chore: 构建过程或辅助工具的变动
 ```
 
-## 测试
-
-### 单元测试
-```bash
-cd animal-server
-mvn test
-```
-
-### 集成测试
-- API接口测试
-- 数据库连接测试
-- 邮件发送测试
-
-### 前端测试
-```bash
-cd animal-front
-npm run test:unit
-```
 
 ## 部署方案
 
 ### 开发环境
 - 本地开发服务器
-- 热重载支持
 - 调试工具集成
 
-### 生产环境
-- Docker容器化部署
-- Nginx反向代理
-- HTTPS安全传输
-- 数据库主从复制
 
 ## 监控运维
 
@@ -292,11 +260,6 @@ npm run test:unit
 - 🎨 优化用户界面
 - 🐛 修复已知问题
 
-
-
-## 许可证
-
-本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
 
 ## 联系方式
 
