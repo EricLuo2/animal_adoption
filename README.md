@@ -310,7 +310,9 @@ npm run test:unit
 ## 致谢
 
 感谢所有为这个项目做出贡献的开发者和用户！
-感谢"https://github.com/YanSiPeng/db_animal"开源代码，本项目很多地方借鉴了该库中的代码
+感谢
+"https://github.com/YanSiPeng/db_animal"
+开源代码，本项目很多地方借鉴了该库中的代码
 
 ---
 
