@@ -303,10 +303,14 @@ npm run test:unit
 - 项目维护者：[Donghui Luo]
 - 邮箱：[er1clu0296@gmail.com]
 
+## 当前进展
+
+邮箱验证功能还在开发中
 
 ## 致谢
 
 感谢所有为这个项目做出贡献的开发者和用户！
+感谢"https://github.com/YanSiPeng/db_animal"开源代码，本项目很多地方借鉴了该库中的代码
 
 ---
 
